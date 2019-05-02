@@ -1,0 +1,4 @@
+2019-05-02 16:58:25 error: Uncaught exception: listen EADDRINUSE: address already in use :::3000
+2019-05-02 16:58:25 error: Authentication failed.
+2019-05-02 16:58:31 error: Authentication failed.
+2019-05-02 17:00:10 error: Authentication failed.
